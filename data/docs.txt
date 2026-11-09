@@ -1,0 +1,19 @@
+                            Notes   
+
+                    Powershell // Bash 
+
+new file = New-Item example.txt // touch example.txt
+new folder = mkdir example 
+
+                    PowerShell //  Bash
+
+Delete File	 rm f.txt // rm f.txt
+Delete Folder rm d -Recurse // rm -r d
+
+
+
+
+                        Questions
+>> what is the difference between head and headers in HTTP? 
+
+>> what are Query parameters 
