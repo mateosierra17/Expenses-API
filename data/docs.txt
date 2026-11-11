@@ -11,6 +11,13 @@ Delete File	 rm f.txt // rm f.txt
 Delete Folder rm d -Recurse // rm -r d
 
 
+NODE JS Notes
+
+response is the main object you use to write responses to the client 
+
+- response.writeHead lets you set the http code and the data format. format examples can be "Content-Type": "application-json" or "Content-Type": "text/html"
+- response.write lets you add data to the final response
+- response.end lets you finish the server-client interaction, can receive data as argument to be the final response
 
 
                         Questions
